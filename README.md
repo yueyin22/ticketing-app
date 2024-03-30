@@ -1,5 +1,10 @@
-## Decsription
-A Simple Ticketing App created with Next.js, Tailwind CSS, and MongoDB 
+## Description
+A Simple Ticketing App - Create, Update and Delete Ticket
+
+Created with Next.js, Tailwind CSS, and MongoDB 
+![image](https://github.com/yueyin22/ticketing-app/assets/79189775/f2985f81-dc99-4721-913c-a09741cbaebe)
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
